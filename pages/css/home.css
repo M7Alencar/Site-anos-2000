@@ -1,0 +1,61 @@
+/* CSS de home */
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    width: 50%;
+    text-align: center;
+}
+
+.quadro {
+    display: block;
+    margin: 1rem;
+    border-radius: .3rem;
+    padding: .5rem;
+    box-shadow: 5px 5px 5px white;
+    color: black;
+}
+
+.quadro div {
+    margin-top: .3rem;
+}
+
+
+/* Primeiro quadro */
+
+.q1, .q2 ,.q3, .q4 {
+    background: rgba(191, 191, 191, 0.88);
+}
+
+.q1 i {
+    color: #333;
+}
+
+
+/* Segundo quadro */
+
+
+
+.q2 i {
+    color: #333;
+}
+
+
+/* Terceiro quadro */
+
+
+.q3 i {
+    color: #333;
+}
+
+
+/* Quarto quadro */
+
+
+
+.q4 i {
+    color: #333;
+}
